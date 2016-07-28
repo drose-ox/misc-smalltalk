@@ -1,0 +1,4 @@
+headless-debug.*
+headless-transcript.log
+*.cha
+*.argv
